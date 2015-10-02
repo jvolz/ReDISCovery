@@ -1,4 +1,4 @@
 # ReDISCovery
 
-A Sports Sensor Device Package and Locator
+A Sports Sensor Device Package and Locator.
 
